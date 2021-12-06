@@ -28,23 +28,23 @@ Design decisions made during the iteration:
 
 1. Selected reference architecture establishes the modules that will support this functionality. 
 
-QA-2 
+	QA-2 
 
 2. Introduction of a time server access module in the data layer on the server application that encapsulates communication with the time servers. The details of this component and its interfaces have not been defined yet.
 
-QA-1
+	QA-1
 
 3. Structuring the system using 3 tiers will allow multiple clients to connect to the application server. Decisions regarding concurrent access have not been made yet
 
-UC-4
+	UC-4
 
 4. The website is mainly going to be resided in North America, meaning that English is going to be the primary language used on the website. 
 
-CON-1 
+	CON-1 
 
 5. There is no return policy, as per our website 
 
-CON-2
+	CON-2
 
 6. Payments are made through online purchases, so there is no reason for cash on delivery payment option 
 
@@ -52,12 +52,12 @@ CON-2
 
 7. There are comment restrictions on the feedback section of the website, due to inappropriate comments 
 
-CON-4
+	CON-4
 
 8. We do not ship internationally
 
-CON-5
+	CON-5
 
 9. The transactions are meant only for business to customer, not business to business 
 
-CON-6
+	CON-6
