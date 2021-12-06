@@ -24,6 +24,8 @@ We have implemented a refined deployment diagram. All elements have been specifi
 
 ![alt text](https://github.com/camerondaize10/FinalProjectReport/blob/main/Iteration%203/refined%20deployment%20diagram.png)
 
+<p style="text-align: center;">Iteration 3 - Sequence Diagram</p>
+
 ![alt text](https://github.com/camerondaize10/FinalProjectReport/blob/main/Iteration%203/sequence%20diagram%202.png)
 
 ## Step 7
