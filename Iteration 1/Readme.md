@@ -24,6 +24,8 @@ We have not removed or added any other component to our web application design a
 
 ![alt text](https://github.com/camerondaize10/FinalProjectReport/blob/main/Iteration%201/Misc/step%206.PNG)
 
+![alt text](https://github.com/camerondaize10/FinalProjectReport/blob/main/Iteration%201/WebApplicationArchitecture.png)
+
 ## Step 7
 
 Design decisions made during the iteration: 
