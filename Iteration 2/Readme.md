@@ -37,7 +37,7 @@ Sketch Views and Record Design Decisions
 
 The domain objects diagram is created, and the sketch of the module view with refined modules that are associated with the primary use cases.
 
-![alt text]()
+![alt text](https://github.com/camerondaize10/FinalProjectReport/blob/main/Iteration%202/Misc/step%206.PNG)
 
 ## Step 7
 
