@@ -46,6 +46,11 @@ The domain objects diagram is created, and the sketch of the module view with re
 
 ![alt text](https://github.com/camerondaize10/FinalProjectReport/blob/main/Iteration%202/Misc/step%206.PNG)
 
+![alt text](https://github.com/camerondaize10/FinalProjectReport/blob/main/Iteration%202/module%20view.png)
+
+![alt text](https://github.com/camerondaize10/FinalProjectReport/blob/main/Iteration%202/domain%20model%20objects.png)
+
+
 ## Step 7
 
 Perform Analysis of Current Design and Review iteration Goal and Achievement of Design Purpose
