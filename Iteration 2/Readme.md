@@ -32,10 +32,10 @@ Domain objects represent complete sets of functionality located within the layer
 ## Step 5
 
 Map the system use cases to domain objects
-An initial identification has been made by analyzing use cases. 
+- An initial identification has been made by analyzing use cases. 
 
 Decompose the domain objects across the layers to identify layer-specific modules with an explicit interface
-All the functionalities are to be identified. This will allow other team members to identify the rest of the modules. We need to test the modules, so a new architectural concern is identified. 
+- All the functionalities are to be identified. This will allow other team members to identify the rest of the modules. We need to test the modules, so a new architectural concern is identified. 
 
 ## Step 6
 
