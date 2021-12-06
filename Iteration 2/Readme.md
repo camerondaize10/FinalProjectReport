@@ -19,17 +19,14 @@ Refinement occurs across the client and server side
 ## Step 4
 
 Create a Domain Model for the application
-
 Before starting decomposition we need to identify entities in the domain along with their relationship.
 
 
 Identify Domain Objects that map to functional requirements
-
 Each element of the application is in a self-contained package. Possibility is that it increases the risk of considering the requirements if domain objects are not considered.
 
 
 Decompose Domain Objects into general and specialized Components
-
 Domain objects represent complete sets of functionality located within the layers. The components in this pattern are what have been referred to as modules.
 
 ## Step 5
