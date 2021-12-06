@@ -28,8 +28,8 @@ The design decisions we made resulted in the creation of the refined deployment 
 
 The Quality attributes concerning these are:
 
-QA-1(Performance)
+QA-1 (Performance)
 
-QA-3(Security)
+QA-3 (Security)
 
-QA-5(Availability)
+QA-5 (Availability)
