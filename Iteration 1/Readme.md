@@ -1,6 +1,6 @@
 # Iteration 1
 
-!(https://github.com/camerondaize10/FinalProjectReport/blob/main/Iteration%201/Misc/step%201.PNG)
+![alt text](https://github.com/camerondaize10/FinalProjectReport/blob/main/Iteration%201/Misc/step%201.PNG)
 
 ## Step 3
 
