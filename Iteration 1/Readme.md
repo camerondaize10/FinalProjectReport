@@ -2,6 +2,10 @@
 
 ![alt text](https://github.com/camerondaize10/FinalProjectReport/blob/main/Iteration%201/Misc/step%201.PNG)
 
+## Step 2
+
+![alt text](https://github.com/camerondaize10/FinalProjectReport/blob/main/Iteration%201/Context%20Diagram.png)
+
 ## Step 3
 
 Website: Watches4You
