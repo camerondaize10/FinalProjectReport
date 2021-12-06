@@ -18,7 +18,7 @@ We have not removed or added any other component to our web application design a
 
 ## Step 6
 
-[Use Cases](https://github.com/camerondaize10/FinalProjectReport/blob/main/Requirements/use%20case%20diagram.png)
+![alt text](https://github.com/camerondaize10/FinalProjectReport/blob/main/Iteration%201/Misc/step%206.PNG)
 
 ## Step 7
 
