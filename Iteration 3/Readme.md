@@ -22,6 +22,10 @@ The elements that will be refined are the Web Server, and the MySQL Database
 
 We have implemented a refined deployment diagram. All elements have been specified in the Design Decisions category of Step 4. There will also be a sequence diagram to show the interactions between our elements. 
 
+![alt text](https://github.com/camerondaize10/FinalProjectReport/blob/main/Iteration%203/sequence%20diagram%202.png)
+
+![alt text](https://github.com/camerondaize10/FinalProjectReport/blob/main/Iteration%203/sequence%20diagram%202.png)
+
 ## Step 7
 
 The design decisions we made resulted in the creation of the refined deployment diagram and sequence diagram. Adding in these servers and modifying the database made our website structured and more reliable.
