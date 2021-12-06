@@ -16,7 +16,7 @@ The elements that will be refined are the Web Server, and the MySQL Database
 
 ## Step 5
 
-![alt text](https://github.com/camerondaize10/FinalProjectReport/blob/main/Iteration%203/Misc/step-5.PNG)
+![alt text](https://github.com/camerondaize10/FinalProjectReport/blob/main/Iteration%203/Misc/Step-5.PNG)
 
 ## Step 6
 
