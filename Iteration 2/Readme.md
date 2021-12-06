@@ -3,9 +3,13 @@
 ## Step 2
 
 Primary use cases: 
+
 UC-2
+
 UC-4
+
 UC-5
+
 UC-8
 
 ## Step 3 
